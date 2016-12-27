@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="temple_web"
+  id="myeclipse.1466572461488"
+  context-root="/temple_web"
+  j2ee-spec="1.7"
+  archive="temple_web.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
